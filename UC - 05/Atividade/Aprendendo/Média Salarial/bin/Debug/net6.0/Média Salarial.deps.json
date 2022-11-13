@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Aprendendo/1.0.0": {
+      "Média Salarial/1.0.0": {
         "runtime": {
-          "Aprendendo.dll": {}
+          "Média Salarial.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Aprendendo/1.0.0": {
+    "Média Salarial/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

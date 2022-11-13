@@ -22,10 +22,5 @@ class Prgram{// Aparentemente isso é da linguagem.
         {
             Console.WriteLine("Ano de nascimento Inválido");
         }
-
-
-
-
-
     }
 }

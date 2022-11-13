@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj",
-      "projectName": "Aprendendo",
-      "projectPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj",
+      "projectUniqueName": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/Média Salarial.csproj",
+      "projectName": "Média Salarial",
+      "projectPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/Média Salarial.csproj",
       "packagesPath": "/home/sirnivass/.nuget/packages/",
-      "outputPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/",
+      "outputPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sirnivass/.nuget/NuGet/NuGet.Config"
