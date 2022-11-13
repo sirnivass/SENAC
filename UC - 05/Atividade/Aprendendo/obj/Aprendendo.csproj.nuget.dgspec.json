@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj": {}
+  },
+  "projects": {
+    "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj",
+        "projectName": "Aprendendo",
+        "projectPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Aprendendo.csproj",
+        "packagesPath": "/home/sirnivass/.nuget/packages/",
+        "outputPath": "/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sirnivass/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sirnivass/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

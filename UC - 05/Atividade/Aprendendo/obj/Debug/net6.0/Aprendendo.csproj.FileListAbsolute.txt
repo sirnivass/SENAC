@@ -1,0 +1,15 @@
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/bin/Debug/net6.0/Aprendendo
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/bin/Debug/net6.0/Aprendendo.deps.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/bin/Debug/net6.0/Aprendendo.runtimeconfig.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/bin/Debug/net6.0/Aprendendo.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/bin/Debug/net6.0/Aprendendo.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.csproj.AssemblyReference.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.AssemblyInfoInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.AssemblyInfo.cs
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.csproj.CoreCompileInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/refint/Aprendendo.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/Aprendendo.genruntimeconfig.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/obj/Debug/net6.0/ref/Aprendendo.dll

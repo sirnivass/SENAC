@@ -1,0 +1,76 @@
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.exe
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.deps.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.runtimeconfig.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.runtimeconfig.dev.json
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.dll
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.pdb
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.dll
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.pdb
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csprojAssemblyReference.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.AssemblyInfoInputs.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.AssemblyInfo.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csproj.CoreCompileInputs.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorAssemblyInfo.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorAssemblyInfo.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.TagHelpers.input.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.TagHelpers.output.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorCoreGenerate.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorTargetAssemblyInfo.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorTargetAssemblyInfo.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.pdb
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/staticwebassets/UC5ATIV3_MaxwellAraujo.StaticWebAssets.Manifest.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/staticwebassets/UC5ATIV3_MaxwellAraujo.StaticWebAssets.xml
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.dll
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.pdb
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.genruntimeconfig.cache
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csproj.CopyComplete
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Agendamento.cshtml.g.cs
+C:/Users/maxwe/OneDrive/Área de Trabalho/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/appsettings.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.deps.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.runtimeconfig.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.runtimeconfig.dev.json
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.dll
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.pdb
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.dll
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/bin/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.pdb
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csprojAssemblyReference.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.AssemblyInfoInputs.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.AssemblyInfo.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csproj.CoreCompileInputs.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.MvcApplicationPartsAssemblyInfo.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorAssemblyInfo.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorAssemblyInfo.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.TagHelpers.input.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.TagHelpers.output.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorCoreGenerate.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Agendamento.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorTargetAssemblyInfo.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.RazorTargetAssemblyInfo.cs
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.Views.pdb
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/staticwebassets/UC5ATIV3_MaxwellAraujo.StaticWebAssets.Manifest.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/staticwebassets/UC5ATIV3_MaxwellAraujo.StaticWebAssets.xml
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.dll
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.pdb
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.genruntimeconfig.cache
+/home/sirnivass/GIT/SENAC/UC5ATIV3_MaxwellAraujo/obj/Debug/netcoreapp3.1/UC5ATIV3_MaxwellAraujo.csproj.CopyComplete

@@ -1,0 +1,60 @@
+{
+  "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/UC5ATIV3_MaxwellAraujo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "UC5ATIV3_MaxwellAraujo",
+  "Documents": [
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Home/Agendamento.cshtml",
+      "TargetPath": "Views\\Home\\Agendamento.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sirnivass/Documentos/GIT/SENAC/UC5ATIV3_MaxwellAraujo/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

@@ -1,0 +1,20 @@
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/appsettings.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web.deps.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web.runtimeconfig.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web.runtimeconfig.dev.json
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web.dll
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/bin/Debug/netcoreapp3.1/New Web.pdb
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.csprojAssemblyReference.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.AssemblyInfoInputs.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.AssemblyInfo.cs
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.csproj.CoreCompileInputs.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.MvcApplicationPartsAssemblyInfo.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.RazorTargetAssemblyInfo.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/staticwebassets/New Web.StaticWebAssets.Manifest.cache
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/staticwebassets/New Web.StaticWebAssets.xml
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.dll
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.pdb
+/home/sirnivass/GIT/SENAC/UC - 05/New Web/obj/Debug/netcoreapp3.1/New Web.genruntimeconfig.cache
