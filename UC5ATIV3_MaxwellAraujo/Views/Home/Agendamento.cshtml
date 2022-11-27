@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Agendamento";
+}
+<h1>@ViewData["Title"]</h1>
+<html>
+<body>
+  <form>
+      <label for="name">Nome:</label>
+      <input type="text" id="name" name="name">
+
+      <label for="phone">Telefone:</label>
+      <input type="tel" id="phone" name="phone"
+       pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+       required>
+
+      <label for="start">Data:</label>
+      <input type="date" id="start" name="trip-start"
+       value="2022-12-31"
+       min="2022-10-16" max="2022-12-31">
+
+      <label for="name">Animal:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="text">necessidade:</label>
+      <input type="text" id="name" name="name">
+
+      <button type="submit" name="submit" value="enviar"> Enviar</button>
+
+  </form>
+</body>
+</html>

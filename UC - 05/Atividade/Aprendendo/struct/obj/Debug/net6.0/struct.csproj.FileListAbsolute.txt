@@ -1,0 +1,15 @@
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/bin/Debug/net6.0/struct
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/bin/Debug/net6.0/struct.deps.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/bin/Debug/net6.0/struct.runtimeconfig.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/bin/Debug/net6.0/struct.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/bin/Debug/net6.0/struct.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.csproj.AssemblyReference.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.AssemblyInfoInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.AssemblyInfo.cs
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.csproj.CoreCompileInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/refint/struct.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/struct.genruntimeconfig.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/struct/obj/Debug/net6.0/ref/struct.dll

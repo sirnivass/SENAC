@@ -1,0 +1,15 @@
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.csproj.AssemblyReference.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.AssemblyInfoInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.AssemblyInfo.cs
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.csproj.CoreCompileInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/bin/Debug/net6.0/Desafio
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/bin/Debug/net6.0/Desafio.deps.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/bin/Debug/net6.0/Desafio.runtimeconfig.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/bin/Debug/net6.0/Desafio.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/bin/Debug/net6.0/Desafio.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/refint/Desafio.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/Desafio.genruntimeconfig.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Desafio/obj/Debug/net6.0/ref/Desafio.dll

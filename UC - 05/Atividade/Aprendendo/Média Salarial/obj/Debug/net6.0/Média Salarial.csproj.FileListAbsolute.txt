@@ -1,0 +1,15 @@
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/bin/Debug/net6.0/Média Salarial
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/bin/Debug/net6.0/Média Salarial.deps.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/bin/Debug/net6.0/Média Salarial.runtimeconfig.json
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/bin/Debug/net6.0/Média Salarial.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/bin/Debug/net6.0/Média Salarial.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.csproj.AssemblyReference.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.AssemblyInfoInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.AssemblyInfo.cs
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.csproj.CoreCompileInputs.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/refint/Média Salarial.dll
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.pdb
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/Média Salarial.genruntimeconfig.cache
+/home/sirnivass/Documentos/GIT/SENAC/UC - 05/Atividade/Aprendendo/Média Salarial/obj/Debug/net6.0/ref/Média Salarial.dll
