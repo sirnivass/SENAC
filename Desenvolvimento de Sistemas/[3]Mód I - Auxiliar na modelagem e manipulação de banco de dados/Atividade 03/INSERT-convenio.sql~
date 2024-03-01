@@ -1,0 +1,23 @@
+INSERT INTO hospital_db_Rodolffo_Nivass.convenio
+(CNPJ, nome, numero_carteira, tempo_de_carencia)
+VALUES
+  (47695058023,"Deixou Saudades","G01-2","02/07/2013"),
+  (74165373961,"Sem Saúde","T77-5","31/05/2013"),
+  (75789797940,"Missa de Sétimo Dia","I18-4","22/10/2013"),
+  (93910477455,"Vai PraVala","R21-6","07/01/2016"),
+  (67402790239,"Convênio TeDeixa NaMão","C12-4","04/01/2016"),
+  (96743136068,"Pagua e nunca usa Saúde","T84-6","07/02/2013"),
+  (99014452097,"Convenio Doente","W54-2","23/05/2014"),
+  (78073240220,"Paciente Terminal","K49-6","06/04/2013"),
+  (38084267684,"Idoso Paga Mais","U26-6","09/11/2014"),
+  (82647776067,"Atalho pro Céu","B19-3","16/07/2014"),
+  (18574330579,"Vaga da Vala","Z31-2","27/09/2014"),
+  (26732890971,"Tirranco U Coro","R32-8","03/04/2015"),
+  (97935964383,"TosseKe Morre","D49-1","14/06/2015"),
+  (83295786512,"Convênio Presunto","E27-1","15/03/2015"),
+  (87457460990,"Convênio Era Só Mais Um Silva","A13-4","20/02/2015"),
+  (64624926877,"A Estrela Não Brilha","D27-8","17/12/2013"),
+  (80343460057,"Abordado Pela Polícia","K14-8","31/05/2015"),
+  (99519042417,"Tem Chifre Mas não é Corno","P92-1","05/06/2016"),
+  (42697666595,"Terror do INSS","L91-3","16/01/2014"),
+  (35795040507,"Convênio Descanse em Paz","X25-4","02/10/2013");

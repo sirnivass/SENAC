@@ -169,17 +169,17 @@ programa
 		escolha (opcaoArea)
 		{
 			caso 'A':
-			valorAreaDeLazer[indiceHospede - 1] = valorAreaDeLazer[indiceHospede - 1] + 20
+			valorAreaDeLazer[indiceHospede] = valorAreaDeLazer[indiceHospede] + 20
 			escreva("Área de Academia reservada com sucesso.\n")
 			pare
 			
 			caso 'S':
-			valorAreaDeLazer[indiceHospede - 1] = valorAreaDeLazer[indiceHospede - 1] + 50
+			valorAreaDeLazer[indiceHospede] = valorAreaDeLazer[indiceHospede] + 50
 			escreva("Área de Salão de Festas reservada com sucesso.\n")
 			pare
 			
 			caso 'R':
-			valorAreaDeLazer[indiceHospede - 1] = valorAreaDeLazer[indiceHospede - 1] + 35
+			valorAreaDeLazer[indiceHospede] = valorAreaDeLazer[indiceHospede] + 35
 			escreva("Área de Restaurante reservada com sucesso.\n")
 			pare
 			
@@ -187,13 +187,13 @@ programa
 			escreva("Opção de área inválida.\n")
 		}
 		// Exibir valor total atualizado
-		escreva("Valor total atualizado: R$", valorAreaDeLazer[indiceHospede - 1], "\n")
+		escreva("Valor total atualizado: R$", valorAreaDeLazer[indiceHospede], "\n")
 	}
 	
 	funcao real calcularTotalGastos(inteiro indiceHospede)
 	{
 		// Calcular o total dos gastos do hóspede
-		real totalGastos = despesasTotais[indiceHospede - 1] + valorAreaDeLazer[indiceHospede - 1]
+		real totalGastos = despesasTotais[indiceHospede] + valorAreaDeLazer[indiceHospede]
 		
 		retorne totalGastos
 	}
@@ -252,6 +252,7 @@ programa
 				caso 6:
 					// Solicitar índice do hóspede e exibir total a pagar
 					escreva("Qual hóspede você gostaria de calcular o total a pagar?\n")
+					exibirHospedes()
 					leia(indiceHospede)
 					
 					escreva("O valor gasto total foi de: R$", calcularTotalGastos(indiceHospede))
@@ -271,7 +272,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 5895; 
+ * @POSICAO-CURSOR = 7066; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {numeroHospedes, 9, 10, 14}-{nomes, 10, 9, 5}-{cpfs, 11, 10, 4}-{diasHospedagem, 12, 10, 14}-{despesasTotais, 13, 7, 14}-{indiceHospede, 14, 10, 13}-{valorAreaDeLazer, 15, 7, 16}-{opcaoArea, 154, 11, 9}-{opcao, 219, 10, 5};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
