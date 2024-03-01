@@ -1,0 +1,220 @@
+ATIVIDADE 1:
+
+
+
+Executar códigos de criação de banco de dados pois serão base para todas as atividades.
+
+
+
+ITEM 1 E 2: PRECISAM CRIAR NA SEQUENCIA OS USUÁRIOS, OS ROLES E ATRIBUIR OS ROLES AOS USUÁRIOS. CONTEÚDO: Segurança do banco de dados
+
+
+
+Item 1: CRIAR UM USUÁRIO (relatorio) PARA SOMENTE REALIZAR CONSULTAS NO BANCO DE DADOS (EM TODAS AS TABELAS)
+
+
+
+Item 2: CRIAR SEGUNDO USUÁRIO (user_funcionario) SELECT, INSERT, UPDATE e DELETE DAS TABELAS ESPECIFICAS venda, cliente e produto.
+
+
+
+Item 3: Relatório do backup do banco de dados!
+
+CONTEÚDO: Recuperação de dados
+
+
+
+___________________________________________________________
+
+
+
+ATIVIDADE 2: AS CONSULTAS E COMANDOS PRECISAM ESTAR ALINHADOS COM O BANCO DE DADOS DISPONIBILIZADO.
+
+ENVIE O COMANDO E O COMANDO DE EXECUÇÃO DA SUA TRIGGER, PROCEDURE, ETC.
+
+
+
+Item 1: Programação com SQL - stored procedure
+
+
+
+Item 2:Programação com SQL - stored function - Apresente 2 chamados da function, um para cliente regular e outro pra premium (Fernando passou a dica que é o 190 o premium e 215 o regular, testem aí pra ver se não é mentira do fernando!!!).
+
+
+
+Item 3: Conteúdo: Programação com SQL e Segurança de banco de dados para comandos de encriptação. - trigger
+
+
+
+ENVIAR OS ARQUIVOS SQL DE CADA UM DOS ITENS. 
+
+ATIVIDADE 3: 
+
+
+
+Conteúdo Desempenho de banco de dados (Se aplica em todos os itens)
+
+
+
+PODE FAZER NO WORD
+
+
+
+/*** SELECT 1
+
+
+
+consulta para um relatório de todas as vendas pagas em dinheiro. 
+
+Necessários para o relatório data da venda, valor total; produtos vendidos, quantidade e valor unitário; nome do cliente, cpf e telefone.
+
+Ordena-se pela data de venda, as mais recentes primeiro.
+
+**/
+
+SELECT * FROM venda v, item_venda iv, produto p, cliente c, funcionario f
+
+WHERE v.id = iv.venda_id AND c.id = v.cliente_id AND p.id = iv.produto_id AND f.id = v.funcionario_id and tipo_pagamento = 'D'
+
+
+
+EXPLAIN SELECT ORIGINAL:
+
+print de como foi o retorno do explain
+
+
+
+REFORMULAÇÃO DO SELECT, otimizado:
+
+SELECT * FROM venda v inner join item_venda iv on v.id = iv.venda_id, produto p, cliente c, funcionario f
+
+WHERE c.id = v.cliente_id AND p.id = iv.produto_id AND f.id = v.funcionario_id and tipo_pagamento = 'D'
+
+
+
+CÓDIGO DE APLICAÇÃO DE INDEX:
+
+
+
+NOVO EXPLAIN DO CÓDIGO SELECT ATUALIZADO:
+
+printzinho aqui do retorno
+
+
+
+CRIAÇÃO DE VIEW DO SELECT ATUALIZADO
+
+
+
+/** O código foi feito assim assim e assado, eu coloquei a index por tal motivo.. 
+
+
+
+REPLICAR A ESTRUTURA NOS OUTROS SELECTS
+
+___________________________________________________________
+
+Atividade 4: 
+
+
+
+Fazer relatório:
+
+
+
+Tabela cliente 1FN:
+
+Foi analisado que tal tabela está com tal campo inadequado pois a regra 1fn fala disso disso e daquilo. Para otimizar tal campo, tem que excluir uma informação tal.
+
+
+
+Drop table tal.
+
+ 
+
+Tabela item_venda 2FN:
+
+Foi analisado que tal tabela está com tal campo inadequado pois a regra 1fn fala disso disso e daquilo. Para otimizar tal campo, tem que excluir uma informação tal.
+
+
+
+Drop table tal.
+
+ 
+
+Tabela venda 3FN:
+
+Foi analisado que tal tabela está com tal campo inadequado pois a regra 1fn fala disso disso e daquilo. Para otimizar tal campo, tem que excluir uma informação tal.
+
+
+
+Drop table tal.
+
+MARROS SILVA SALDANHA21:43
+Atividade 5:
+
+
+
+
+
+INSERÇÃO DOS PRODUTOS:
+
+
+
+db.students.insertMany([
+
+ { id: 1, name: 'Ryan', gender: 'M' },
+
+ { id: 2, name: 'Joanna', gender: 'F' }
+
+]);
+
+db.students.find({ gender: 'F' });
+
+
+
+{
+
+ acknowledged: true,
+
+ insertedIds: {
+
+  '0': ObjectId('65e121ef24577f44f48a4ce2'),
+
+  '1': ObjectId('65e121ef24577f44f48a4ce3')
+
+ }
+
+}
+
+mycompiler_mongodb> [
+
+ {
+
+  _id: ObjectId('65e121ef24577f44f48a4ce3'),
+
+  id: 2,
+
+  name: 'Joanna',
+
+  gender: 'F'
+
+ }
+
+]
+
+
+
+UPDATE DOS PRODUTOS
+
+
+
+codigo de update
+
+
+
+código retornado
+
+
+
+Conteúdo vinculado: Bancos de dados não relacionais
