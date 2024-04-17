@@ -1,0 +1,59 @@
+// Criando banco:
+use uc4atividades
+
+//Resultado:
+ mycompiler_mongodb> 
+mycompiler_mongodb> switched to db uc4atividades
+uc4atividades> 
+[Execution complete with exit code 0]
+
+
+// Inclusão dos dados de nome, descricao, estoque, fabricante para a tabela “produto”: 
+ db.produto.insertMany([{ nome: "Produto01", descricao: "Descricao do Produto 01", estoque: 100, fabricante: "Fabricante A"},
+                        { nome: "Produto02", descricao: "Descricao do Produto 02", estoque: 99, fabricante: "Fabricante B"},
+                        { nome: "Produto03", descricao: "Descricao do Produto 03", estoque: 5, fabricante: "Fabricante C"}]) 
+// Resultado
+ mycompiler_mongodb> 
+mycompiler_mongodb> ... ... {
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('661de1bcdb5d8be66ec22333'),
+    '1': ObjectId('661de1bcdb5d8be66ec22334'),
+    '2': ObjectId('661de1bcdb5d8be66ec22335')
+  }
+}
+mycompiler_mongodb> 
+[Execution complete with exit code 0]
+                        
+//  Comando para atualizarum único documento na colecao "produto":
+db.produto.updateOne( // comando para atualizar um único documento na coleção "produto"
+                      {nome: "Produto01"}, // Critério de seleção do Doc.
+                      { $set: {descricao: "Nova descricao do Produto01"} } ) // Atualização do campo "descricao" para "Nova descrição do Produto 1"
+//Resultado
+mycompiler_mongodb> 
+mycompiler_mongodb> ... ... {
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 0,
+  modifiedCount: 0,
+  upsertedCount: 0
+}
+mycompiler_mongodb> 
+[Execution complete with exit code 0]
+                      
+// Comando para encontrar documentos na colecao "produto".
+db.produto.find({"nome": "Produto02"})
+// Resultado
+mycompiler_mongodb> 
+mycompiler_mongodb> 
+mycompiler_mongodb> 
+[Execution complete with exit code 0]
+
+// Busca de produto por fabricante.
+db.produto.find({"fabricante": "Fabricante A"})
+// Resultado
+mycompiler_mongodb> 
+mycompiler_mongodb> 
+mycompiler_mongodb> 
+[Execution complete with exit code 0]
+
